@@ -1,16 +1,17 @@
-## Hi there 👋
+Yare, Salazar
 
-<!--
-**yarealexa/yarealexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Yare Salazae, a student at Brigham Young University-Idaho interested in Cybersecurity. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning how to work on Linux and Cloud
+- My goals are to enhence my knowledge about cybersecuirty and what it has to offer.
+
+- Proficient in: HMTL, CSS and Python
+- Skills: I am working in the IT department (beginner level) at Brigham Young University.
+
+## Let's Connect!
+
+- Here is my LinkedIn Profile || www.linkedin.com/in/yare-salazar-7203962a4
+
+Feel free to explore my repositories and don't hesitate to reach out!
